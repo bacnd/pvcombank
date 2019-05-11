@@ -196,7 +196,7 @@ th {
 /* base valiables */
 @font-face {
   font-family: 'Lato';
-  src: url("../fonts/Lato.ttf") format("truetype");
+  src: url("fonts/Lato.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
 
@@ -382,7 +382,7 @@ img.dl-pc {
       margin: auto; } }
   .intro .btn-action .btn-register:after {
     content: '';
-    background: url("../images/ic-next.png") no-repeat;
+    background: url("images/ic-next.png") no-repeat;
     position: absolute;
     width: 13px;
     height: 14px;
@@ -406,7 +406,7 @@ img.dl-pc {
       color: #fff;
       transform: translateY(-2px); }
     .intro .btn-action .btn-register.btn--white:after {
-      background: url("../images/ic-next-white.png") no-repeat; }
+      background: url("images/ic-next-white.png") no-repeat; }
 
 #wrapper #header {
   position: fixed;
@@ -642,12 +642,12 @@ footer {
             margin: .5rem; } }
 
 #content .box-main {
-  background: url("../images/screen-1.png") no-repeat;
+  background: url("images/screen-1.png") no-repeat;
   background-size: cover;
   display: block; }
   @media screen and (max-width: 768px) {
     #content .box-main {
-      background: url("../images/screen-1-sp.png") no-repeat;
+      background: url("images/screen-1-sp.png") no-repeat;
       background-size: cover; } }
   #content .box-main .fp-tableCell {
     display: block; }
