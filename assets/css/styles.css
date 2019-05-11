@@ -693,8 +693,8 @@ footer {
   margin-bottom: 65px; }
   @media screen and (max-width: 768px) {
     #content .section .intro p {
-      line-height: 1.5;
-      margin-bottom: 22px; } }
+      line-height: 1.5 !important;
+      margin-bottom: 22px !important; } }
 
 #content .buy-house .inner-section, #content .consumption .inner-section, #content .buy-car .inner-section, #content .business .inner-section {
   max-width: 1366px;
