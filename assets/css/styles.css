@@ -627,7 +627,7 @@ footer {
     font-size: 14px; }
     @media screen and (max-width: 768px) {
       footer .ft-content {
-        height: 50px;
+        height: auto;
         flex-direction: column;
         justify-content: center; }
         footer .ft-content .ft-col {
