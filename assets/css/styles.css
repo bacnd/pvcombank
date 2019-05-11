@@ -432,7 +432,7 @@ img.dl-pc {
       @media screen and (max-width: 768px) {
         #wrapper #header .top-header .logo {
           width: 77px;
-          margin: .25em auto; } }
+          margin: .15em auto; } }
     #wrapper #header .top-header .hd-right nav .nav-bar {
       display: -webkit-box;
       display: -moz-box;
