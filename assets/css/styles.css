@@ -382,7 +382,7 @@ img.dl-pc {
       margin: auto; } }
   .intro .btn-action .btn-register:after {
     content: '';
-    background: url("./images/ic-next.png") no-repeat;
+    background: url("./assets/images/ic-next.png") no-repeat;
     position: absolute;
     width: 13px;
     height: 14px;
@@ -406,7 +406,7 @@ img.dl-pc {
       color: #fff;
       transform: translateY(-2px); }
     .intro .btn-action .btn-register.btn--white:after {
-      background: url("./images/ic-next-white.png") no-repeat; }
+      background: url("./assets/images/ic-next-white.png") no-repeat; }
 
 #wrapper #header {
   position: fixed;
