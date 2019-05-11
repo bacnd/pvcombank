@@ -196,7 +196,7 @@ th {
 /* base valiables */
 @font-face {
   font-family: 'Lato';
-  src: url("./assets/fonts/Lato.ttf") format("truetype");
+  src: url("./assets/fonts/lato.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
 
