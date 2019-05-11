@@ -642,12 +642,12 @@ footer {
             margin: .5rem; } }
 
 #content .box-main {
-  background: url("./images/screen-1.png") no-repeat;
+  background: url("./assets/images/screen-1.png") no-repeat;
   background-size: cover;
   display: block; }
   @media screen and (max-width: 768px) {
     #content .box-main {
-      background: url("./images/screen-1-sp.png") no-repeat;
+      background: url("./assets/images/screen-1-sp.png") no-repeat;
       background-size: cover; } }
   #content .box-main .fp-tableCell {
     display: block; }
